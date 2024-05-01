@@ -1,0 +1,67 @@
+
+
+
+.navbar {
+    padding: 15px 20px;
+}
+
+.navbar-text {
+    font-family: 'Pacifico', cursive;
+    font-size: 1.5em;
+}
+
+.nav-link {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.2em;
+}
+
+/* Styling header */
+.header {
+    background-color: #f8f9fa;
+}
+
+#tanggal-jam {
+    font-family: 'Crimson Pro', serif;
+    font-size: 1.2em;
+}
+
+/* Styling carousel */
+.carousel-item img {
+    height: 700px;
+    object-fit: cover;
+}
+
+.carousel-control-prev, .carousel-control-next {
+    width: 5%;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    filter: invert(100%);
+}
+
+/* Styling cards */
+.card {
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-family: 'Pacifico', cursive;
+}
+
+.card-text {
+    font-family: 'Playfair Display', serif;
+}
+
+/* Styling footer */
+.footer {
+    padding: 50px 0;
+}
+
+.footer h3 {
+    font-family: 'Pacifico', cursive;
+}
+
+.footer p {
+    font-family: 'Playfair Display', serif;
+}
